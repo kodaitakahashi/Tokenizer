@@ -27,7 +27,7 @@ public class JumanppTokenizer implements Tokenizer {
 
     /**
      * 与えた文字列をJumman++で解析する
-     * @param sentence解析を対象とする文字列
+     * @param sentence 解析を対象とする文字列
      * @return 解析した結果
      * @throws IOException
      * @throws InterruptedException
